@@ -8,3 +8,5 @@
 * rem -> The rem unit is relative to the font-size of the root element.
 * If used for font-size, 1rem is equal to the font-size of the root element.
 * so for font-size use rem and for padding and marging use em.
+## 3) Day 3 Challenge:  
+* Provide max-width along with width so that one bigger screen content looks better, otherwise on big screen content will appear of left and right side of screen.
